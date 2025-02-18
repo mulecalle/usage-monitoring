@@ -1,0 +1,35 @@
+{
+  // Pool configurations
+  pools: [
+    { id: "pool_1", pool_count: 750, count: 52 },
+    { id: "pool_2", pool_count: 250, count: 180 },
+    { id: "pool_3", pool_count: 1000, count: 842 },
+    { id: "pool_4", pool_count: 500, count: 85 },
+    { id: "pool_5", pool_count: 800, count: 654 },
+    { id: "pool_6", pool_count: 300, count: 100 },
+    { id: "pool_7", pool_count: 900, count: 22 },
+    { id: "pool_8", pool_count: 400, count: 12 },
+    { id: "pool_9", pool_count: 600, count: 489 },
+    { id: "pool_10", pool_count: 350, count: 88 },
+    { id: "pool_11", pool_count: 450, count: 178 },
+    { id: "pool_12", pool_count: 700, count: 243 },
+    { id: "pool_13", pool_count: 550, count: 111 },
+    { id: "pool_14", pool_count: 850, count: 221 },
+    { id: "pool_15", pool_count: 950, count: 950 },
+    { id: "pool_16", pool_count: 200, count: 1 },
+    { id: "pool_17", pool_count: 650, count: 0 },
+    { id: "pool_18", pool_count: 150, count: 123 },
+    { id: "pool_19", pool_count: 775, count: 45 },
+    { id: "pool_20", pool_count: 825, count: 278 },
+    { id: "pool_21", pool_count: 275, count: 13 },
+    { id: "pool_22", pool_count: 325, count: 67 },
+    { id: "pool_23", pool_count: 475, count: 289 },
+    { id: "pool_24", pool_count: 525, count: 332 },
+    { id: "pool_25", pool_count: 575, count: 178 },
+    { id: "pool_26", pool_count: 625, count: 212 },
+    { id: "pool_27", count: 167 },
+    { id: "pool_28", pool_count: 725 },
+    { id: "pool_29", pool_count: 875, count: 0 },
+    { id: "pool_30", pool_count: 925, count: 925 }
+  ]
+} 
